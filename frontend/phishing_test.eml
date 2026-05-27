@@ -1,0 +1,18 @@
+From: Microsoft Security <support-security@micr0soft-alerts.ru>
+To: victim@gmail.com
+Subject: URGENT: Verify Your Microsoft Account
+Reply-To: attacker@evil-domain.ru
+Return-Path: fake-return@malicious-domain.ru
+Received-SPF: fail
+
+Dear User,
+
+Your Microsoft account has been suspended due to suspicious activity.
+
+Verify your credentials immediately:
+
+http://micr0soft-login-security.ru/verify
+
+Failure to act within 24 hours will permanently suspend your account.
+
+Microsoft Security Team

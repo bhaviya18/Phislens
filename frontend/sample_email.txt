@@ -1,0 +1,7 @@
+URGENT: Your bank account has been suspended.
+
+Click immediately to verify your credentials:
+
+http://fake-bank-login.com
+
+Failure to act within 24 hours will permanently lock your account.
